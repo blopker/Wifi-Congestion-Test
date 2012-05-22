@@ -4,9 +4,11 @@ The Powwow Puzzler
 
 Contents
 ----------
-###Info
-PowwowPuzzler.pdf - Final paper with test results.
-Powwow presentation.pdf - Final presentation, includes pictures of setup.
+###PowwowPuzzler.pdf
+Final paper with test results.
+
+###Powwow presentation.pdf
+Final presentation, includes pictures of setup.
 
 ###Android
 Source code for the Android based client.
